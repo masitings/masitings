@@ -3,7 +3,7 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=masitings&label=Profile%20views&color=0e75b6&style=flat" alt="masitings" /> 
-  [![@masiting's Holopin board](https://holopin.io/api/user/board?user=masiting)](https://holopin.io/@masiting)
+  [![An image of @masiting's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masiting)](https://holopin.io/@masiting)
 </p>
 
 
