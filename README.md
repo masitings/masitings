@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masitings" alt="masitings" /></a> </p>
 
-- 🔭 I’m currently working on [termique](https://termique.app)
-
 - 🌱 I’m currently learning **Go-Lang, Flutter, NodeJS, React-Native**
 
 - 👨‍💻 All of my projects are available at [https://masiting.dev](https://masiting.dev)
